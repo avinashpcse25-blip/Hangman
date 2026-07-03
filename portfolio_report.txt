@@ -1,0 +1,7 @@
+STOCK PORTFOLIO REPORT
+Generated on: 2026-06-28 17:47:25
+
+Symbol    Qty   Price($)  Value($)  
+TSLA      8     250       2000      
+
+Total Portfolio Value: $2000
